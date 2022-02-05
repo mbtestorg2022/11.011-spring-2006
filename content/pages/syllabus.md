@@ -41,11 +41,48 @@ Assignments and Evaluation of Learning
 
 Evaluation will be based on contributions to class discussion, three problem sets, and a final project. The problems sets each require a concise (5-6 page) analysis of a negotiation case. Guidelines for the final project will be distributed in class.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Discussion | 20% |
-| Three Problem Sets (17% each) | 51% |
-| Final Project | 29% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Problem Sets (17% each)
+{{< tdclose >}}
+{{< tdopen >}}
+51%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+29%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Participation
 -------------

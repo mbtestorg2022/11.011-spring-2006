@@ -349,7 +349,7 @@ Guest Lecture - Marianella Sclavi, University of Milan
 {{< tdopen >}}
 _Preparatory Readings_  
   
-Sclavi, Marianella. "Seven Rules of the Art of Listening." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://sites.google.com/site/marianellasclavi/Home))
+Sclavi, Marianella. "Seven Rules of the Art of Listening." ([PDF](https://sites.google.com/site/marianellasclavi/Home))
 {{< tdclose >}}
 
 {{< trclose >}}

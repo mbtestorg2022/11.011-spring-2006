@@ -4,6 +4,7 @@ description: This resource contains problems and ask you to analyze experience i
   a negotiation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-011-the-art-and-science-of-negotiation-spring-2006/eaf0a7c7acaaec70f03b9a6b7577ef7e_pset2.pdf
 file_type: application/pdf
+parent_uid: 071b5e9c-d17c-9e09-ee5d-641665ab9f10
 resourcetype: Document
 title: pset2.pdf
 uid: eaf0a7c7-acaa-ec70-f03b-9a6b7577ef7e
